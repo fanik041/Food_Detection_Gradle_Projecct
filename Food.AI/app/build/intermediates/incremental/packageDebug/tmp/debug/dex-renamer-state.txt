@@ -1,0 +1,7 @@
+#Sun Nov 06 18:38:07 EST 2022
+base.1=/home/fahim/coding_projects/soft_eng_pjct_mgt/AI_food_detecton/Food-AI/Food.AI/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/home/fahim/coding_projects/soft_eng_pjct_mgt/AI_food_detecton/Food-AI/Food.AI/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
